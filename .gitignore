@@ -1,3 +1,4 @@
 ./render/dist
 ./render/node_modules
 ./vs
+./render/vs/
